@@ -1,0 +1,69 @@
+{
+  "all-resumes": [
+    {
+      "id": "e8bb",
+      "professionalData": {
+        "name": "Sobhith Sivan",
+        "jobTitle": "web developer",
+        "location": "kerala",
+        "email": "sobhithsivan12@gmail.com",
+        "phone": "7012447074",
+        "github": "sobhithsivan12@github.com",
+        "linkedin": "sobhithsivan12@linkedin.com",
+        "portfolio": "sobhithsivan12@profile.com"
+      },
+      "educationalData": {
+        "course": "MEARN STACK",
+        "college": "ABC College",
+        "university": "ABC University",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "JOB",
+        "company": "Luminar",
+        "jobLocation": "Ernakulam",
+        "duration": "6 Months"
+      },
+      "skill": [
+        "NODE JS",
+        "MongoDB",
+        "JS",
+        "CSS",
+        "HTML",
+        "REACT"
+      ],
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+    },
+    {
+      "id": "b241",
+      "professionalData": {
+        "name": "Silpa Sivan",
+        "jobTitle": "Nurse",
+        "location": "kerala",
+        "email": "silpa@gmail.com",
+        "phone": "123456789",
+        "github": "silpa@github.com",
+        "linkedin": "silpa@linkedin.com",
+        "portfolio": "silpa@profile.com"
+      },
+      "educationalData": {
+        "course": "BSC Nurse",
+        "college": "Lourdes",
+        "university": "ABC University",
+        "year": "2022"
+      },
+      "experience": {
+        "jobRole": "Job",
+        "company": "",
+        "jobLocation": "Ernakulam",
+        "duration": "2 years"
+      },
+      "skill": [
+        "ABC",
+        "BCA",
+        "DCB"
+      ],
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+    }
+  ]
+}
